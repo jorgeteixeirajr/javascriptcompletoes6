@@ -10,7 +10,7 @@
 - [DOM para Iniciantes](#-dom-para-iniciantes)
 - [Objetos](#-objetos)
 - [Efeitos no DOM](#-efeitos-no-dom)
-- [JavaScript Assíncrono](#-javascript-assincrono)
+- [JavaScript Assíncrono](#-javascript-assíncrono)
 - [Classes](#-classes)
 - [Mais JavaScript](#-mais-javascript)
 - [Regular Expression](#-regular-expression)
@@ -62,7 +62,7 @@ Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos p
 
 ---
 
-## 🏭 Objetos
+## 💻 Objetos
 
 - Constructor Function
 - Prototype
@@ -76,7 +76,7 @@ Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos p
 
 ---
 
-## 🛴 Efeitos no DOM
+## 💻 Efeitos no DOM
 
 - Dataset
 - Modules
@@ -93,6 +93,34 @@ Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos p
 - Button Creator HTML e CSS
 - Button Creator JavaScript
 - LocalStorage
+
+---
+
+## 💻 JavaScript Assíncrono
+
+---
+
+## 💻 Classes
+
+---
+
+## 💻 Mais JavaScript
+
+---
+
+## 💻 Regular Expression
+
+---
+
+## 💻 Automação Front End
+
+---
+
+## 💻 Refatorar Projeto Final
+
+---
+
+## 💻 Slide
 
 ---
 
