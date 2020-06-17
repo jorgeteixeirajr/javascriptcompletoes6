@@ -4,11 +4,9 @@
 
 </h1>
 <br>
-<br>
 
 > Mesmo um longa caminhada se inicia com apenas um passo.
 
-<br>
 <br>
 
 # Indice
@@ -105,29 +103,91 @@ Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos p
 
 ## 💻 JavaScript Assíncrono
 
+- JavaScript Assíncrono
+- Promisses
+- Fetch
+- JSON
+- API e HTTP
+- Async Await
+- History API
+- Animais Fetch
+- Bitcoin Fetch
+
 ---
 
 ## 💻 Classes
+
+- Classes
+- Get e Set
+- Extends
+- Countdown
 
 ---
 
 ## 💻 Mais JavaScript
 
+- Function Expression
+- Factory Function
+- Clojures e Debugging
+- Destructuring
+- Rest e Spread
+- Poops e Iterable
+
 ---
 
 ## 💻 Regular Expression
+
+- Regexp Seleção
+- Regexp Padrões
+- Limpar CPF
+- Validar CPF
 
 ---
 
 ## 💻 Automação Front End
 
+- Linha de Comando
+- NPM
+- ESLint
+- Webpack
+- Babel
+- Git
+
 ---
 
 ## 💻 Refatorar Projeto Final
 
+- Repositório Git
+- Refatorar Scroll Suave
+- Refatorar Accordion
+- Refatorar Tabnav
+- Refatorar Modal
+- Refatorar Tooltip
+- Refatorar Anima Números
+- Refatorar Fetch Animais
+- Refatorar Fetch Bitcoin
+- Refatorar Animação Scroll
+- Debounce
+- Refatorar Dropdown Menu
+- Refatorar Menu Mobile
+- Refatorar Funcionamento
+
 ---
 
 ## 💻 Slide
+
+- Slide Início
+- Slide Eventos
+- Slide Atualizar Distâncias
+- Slide Touch Events
+- Slide Config
+- Slide Next e Prev
+- Slide Resize
+- Slide Nav
+- Slide Paginação
+- Slide Custom Controls
+- Slide Animais Fantásticos
+- Melhorias no Projeto Final
 
 ---
 
