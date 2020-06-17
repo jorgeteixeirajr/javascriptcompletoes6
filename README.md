@@ -27,7 +27,7 @@
 
 # 🧾 Sobre
 
-Esse repositório tem por objetivo armazenar as informações obtidas no curso **JavaScript Completo ES6+** da [Origamid](https://www.origamid.com){:target="\_blank"}.
+Esse repositório tem por objetivo armazenar as informações obtidas no curso **JavaScript Completo ES6+** da [Origamid](https://www.origamid.com).
 
 Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos para facilitar a organização e o entendimento para futura consulta.
 <br>
