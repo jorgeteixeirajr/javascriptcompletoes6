@@ -1,6 +1,6 @@
 <h1 align="center">
 
-[![Origamid](https://ik.imagekit.io/wok5lamr2n/Opera_Instant_neo_2020-06-17_163803_www.origamid.com_S3rlnfR03.png)](www.origamid.com.br)
+<img src="https://ik.imagekit.io/wok5lamr2n/Opera_Instant_neo_2020-06-17_163803_www.origamid.com_S3rlnfR03.png">
 
 </h1>
 <br>
