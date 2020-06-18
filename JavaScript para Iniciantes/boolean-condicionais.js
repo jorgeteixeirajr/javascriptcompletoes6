@@ -13,6 +13,7 @@ if (minhaIdade > idadeParente) {
 
 // Qual valor é retornado na seguinte expressão?
 var expressao = (5 - 2) && (5 - ' ') && (5 - 2);
+// ' ' string com espaço é verdadeiro
 console.log(expressao) //resultado = 3
 
 // Verifique se as seguintes variáveis são Truthy ou Falsy
@@ -22,6 +23,7 @@ var possuiDoutorado = false;
 var empregoFuturo;
 var dinheiroNaConta = 0;
 console.log(!!nome, !!idade, !!possuiDoutorado, !!empregoFuturo, !!dinheiroNaConta)
+// utilizar !! traz o que é aquela variável
 
 // Compare o total de habitantes do Brasil com China (valor em milhões)
 var brasil = 207;
