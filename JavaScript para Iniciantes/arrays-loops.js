@@ -47,5 +47,5 @@ for (var i = 0; i < frutas.length; i++) {
 
 // Coloque a última fruta da array acima em uma variável,
 // sem remover a mesma da array.
-var ultimaFruta = frutas[4];
+var ultimaFruta = frutas[frutas.length - 1];
 console.log(ultimaFruta);
