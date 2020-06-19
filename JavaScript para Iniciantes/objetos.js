@@ -27,7 +27,10 @@ var dadosPessoais = {
 }
 
 // Crie um método no objeto anterior, que mostre o seu nome completo
-console.log(dadosPessoais.nome, dadosPessoais.sobrenome)
+dadosPessoais.nomeCompleto = function () {
+  return `${this.nome} ${this.sobrenome}`
+}
+console.log(dadosPessoais.nomeCompleto())
 
 // Modifique o valor da propriedade preco para 3000
 var carro = {
@@ -44,6 +47,12 @@ var cachorro = {
   raca: 'Labrador',
   cor: 'Preto',
   idade: 10,
-  lateAoVerHomem: true,
+  latir(pessoa) {
+    if (pessoa === 'homem') {
+      return 'Latir'
+    } else {
+      return 'Nada'
+    }
+  }
 }
 console.log(cachorro)
