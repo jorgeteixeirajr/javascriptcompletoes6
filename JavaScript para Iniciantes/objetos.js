@@ -19,7 +19,7 @@ console.log(quadrado.perimetro(5))
 // EXERCÍCIO
 
 // Crie um objeto com os seus dados pessoais
-// Deve possui pelo menos duas propriedades nome e sobrenome
+// Deve possuir pelo menos duas propriedades nome e sobrenome
 var dadosPessoais = {
   nome: 'Jorge',
   sobrenome: 'Teixeira',
