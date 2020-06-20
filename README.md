@@ -11,6 +11,7 @@
 
 # Indice
 
+- [Sobre](#-sobre)
 - [JavaScript para Iniciantes](#-javaScript-para-iniciantes)
 - [DOM para Iniciantes](#-dom-para-iniciantes)
 - [Objetos](#-objetos)
@@ -27,13 +28,18 @@
 
 # 🧾 Sobre
 
-Esse repositório tem por objetivo armazenar as informações obtidas no curso **JavaScript Completo ES6+** da [Origamid](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/11).
+**Você pode conferir a documentação completa aqui: [Curso JavaScript Completo ES6+](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/2)**
+
+---
+
+Esse repositório tem por objetivo armazenar as informações obtidas no curso **JavaScript Completo ES6+** da [Origamid](https://www.origamid.com/slide/javascript-completo-es6/#/0101-javascript-completo-es6/11) 🐺.
 
 Irei armazenar todos os arquivos, eles serão organizados conforme os tópicos para facilitar a organização e o entendimento para futura consulta.
 
 O objetivo com esse treinamento é conhecer a fundo esta tecnologia tão utilizada hoje em dia, aprofundar o breve conhecimento que possuo e poder entrar no mercado de trabalho com a capacitação devida.
-<br>
-<br>
+
+---
+
 <br>
 
 # 🔍 Pontos abordados no curso
