@@ -12,9 +12,9 @@ const linkInterno = document.querySelectorAll('[href^="#"')
 console.log(linkInterno)
 
 // Selecione o primeiro h2 dentro de .animais-descricao
-const segundoTitulo = document.querySelector('.animais-descricao h2:first-child')
+const segundoTitulo = document.querySelector('.animais-descricao h2')
 console.log(segundoTitulo)
 
 // Selecione o último p do site
-const ultimoParagrafo = document.querySelectorAll('p:last-child')
-console.log(ultimoParagrafo)
+const ultimoParagrafo = document.querySelectorAll('p')
+console.log(ultimoParagrafo[ultimoParagrafo.length - 1])
