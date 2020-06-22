@@ -10,8 +10,14 @@ titulosArray.forEach(function (item) {
 const paragrafo = document.querySelectorAll('p')
 console.log(paragrafo)
 
-// Mostre o texto dos parágrafos no console
+paragrafo.forEach((item) => {
+  console.log(item)
+})
 
+// Mostre o texto dos parágrafos no console
+paragrafo.forEach((item) => {
+  console.log(item.innerText)
+})
 
 // Como corrigir os erros abaixo:
 const imgs = document.querySelectorAll('img');
