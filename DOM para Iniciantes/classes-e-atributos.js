@@ -1,7 +1,7 @@
 const menu = document.querySelectorAll('.menu a')
 const animais = document.querySelector('.animais')
 const img = document.querySelectorAll('img')
-const linkMenu = document.querySelectorAll('a[href^="https://"]')
+const linkMenu = document.querySelector('a[href^="https://"]')
 
 
 // EXERCÍCIOS
@@ -23,6 +23,4 @@ img.forEach((item) => {
 })
 
 // Modifique o href do link externo no menu
-linkMenu.forEach((item) => {
-  item.setAttribute('href', 'https://google.com.br')
-})
+linkMenu.setAttribute('href', 'https://google.com.br')
