@@ -30,7 +30,16 @@ linksInternos.forEach((link) => {
 
 // Selecione todos os elementos do site começando a partir do body,
 // ao clique mostre exatamente quais elementos estão sendo clicados
+const todosElementos = document.querySelectorAll('body *')
 
+function handleElemento(event) {
+  event.currentTarget.remove()
+}
+
+
+// todosElementos.forEach((elemento) => {
+//   elemento.addEventListener('click', handleElemento)
+// })
 
 
 // Utilizando o código anterior, ao invés de mostrar no console,
@@ -38,3 +47,10 @@ linksInternos.forEach((link) => {
 
 
 // Se o usuário clicar na tecla (t), aumente todo o texto do site. 
+function handleClickT(event) {
+  if (event.key === 't') {
+
+  }
+}
+
+windows.addEventListener('keydown', handleClickT)
