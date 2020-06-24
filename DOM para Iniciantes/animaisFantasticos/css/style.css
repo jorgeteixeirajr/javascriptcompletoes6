@@ -22,8 +22,8 @@ body {
   grid-template-columns: 1fr 120px minmax(300px, 800px) 1fr;
 }
 
-html {
-  font-size: 120%;
+html.textomaior {
+  font-size: 150%;
 }
 
 .menu {
