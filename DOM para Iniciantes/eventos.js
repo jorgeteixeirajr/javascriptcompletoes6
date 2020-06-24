@@ -49,8 +49,8 @@ function handleElemento(event) {
 // Se o usuário clicar na tecla (t), aumente todo o texto do site. 
 function handleClickT(event) {
   if (event.key === 't') {
-
+    document.documentElement.classList.toggle('textomaior')
   }
 }
 
-windows.addEventListener('keydown', handleClickT)
+window.addEventListener('keydown', handleClickT)
