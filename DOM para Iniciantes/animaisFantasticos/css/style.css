@@ -233,7 +233,7 @@ html.textomaior {
   }
 }
 
-.js-tabcontent section {
+.js .js-tabcontent section {
   display: none;
 }
 
