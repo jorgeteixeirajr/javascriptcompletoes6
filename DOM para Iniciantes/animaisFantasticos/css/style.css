@@ -116,9 +116,18 @@ html.textomaior {
   cursor: pointer;
 }
 
+.animais-lista::-webkit-scrollbar {
+  width: 20px;
+}
 
-.animais.lista::-webkit-scrollbar-track {
-  background: var(--bg-color);
+.animais-lista::-webkit-scrollbar-thumb {
+  background: #FB5;
+  border-left: 4px solid #faf6ed;
+  border-right: 4px solid #faf6ed;
+}
+
+.animais-lista::-webkit-scrollbar-track {
+  background: #faf6ed;
 }
 
 .animais-descricao {
